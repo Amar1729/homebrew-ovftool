@@ -1,4 +1,4 @@
-# Amar1729 Ovftool
+# ovftool
 
 Homebrew tap for VMware's [`ovftool`](https://code.vmware.com/web/tool/4.4.0/ovf), a command-line tool for conversion between various VM formats (e.g. VMX, OVA, OVF).
 
